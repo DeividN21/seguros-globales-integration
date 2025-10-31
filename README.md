@@ -32,15 +32,18 @@ simulacion-seguros-globales/
 
 2. **Clonar el Repositorio:**
    - Abrir una terminal y ejecutar:
-   - git clone https://github.com/DeividN21/seguros-globales-integration.git
-
+     ```
+      git clone https://github.com/DeividN21/seguros-globales-integration.git
+     ```
 3. **Entrar al Directorio:**
-   - cd seguros-globales-integration
-
+   ```
+   cd seguros-globales-integration
+   ```
 4. **Ejecutar la Simulación:**
 - Ejecutar el script principal:
-- python main.py
-
+  ```
+   python main.py
+  ```
 - Esto simulará todas las fases, generando archivos en `simulacion_sftp/` y logs.
 - Puede observar los prints en consola para ver el flujo paso a paso.
 
