@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+simulacion_sftp/logs/*.log  # Ignora logs generados
