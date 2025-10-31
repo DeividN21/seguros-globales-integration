@@ -3,7 +3,7 @@
 Esta es una simulación en Python de la integración de sistemas entre Seguros Globales y la Consultora de Siniestros, usando un SFTP simulado con directorios locales. Se basa en los requisitos, diagramas y plan de implementación del informe. La simulación ejecuta las 6 fases secuencialmente mediante prints en consola y operaciones de archivos.
 
 ## Estructura del Proyecto (Carpetas y Archivos)
-
+```
 simulacion-seguros-globales/
 ├── README.md                  # Instrucciones para clonar y ejecutar
 ├── .gitignore                 # Ignora archivos temporales
@@ -23,6 +23,7 @@ simulacion-seguros-globales/
 │   ├── reclamos_ejemplo.csv   # Ejemplo de CSV de reclamos
 │   └── respuestas_ejemplo.csv # Ejemplo de CSV de respuestas
 └── main.py                    # Script principal que ejecuta las fases
+```
 
 ## Cómo Clonar y Ejecutar
 
