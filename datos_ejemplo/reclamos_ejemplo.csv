@@ -1,0 +1,4 @@
+numero_poliza,monto_reclamo,fecha_siniestro,descripcion
+POL123,5000,2023-10-01,Accidente vehicular
+POL456,12000,2023-11-15,Daño por inundación
+POL789,3000,2023-12-20,Robo en vivienda
